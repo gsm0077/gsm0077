@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAI MANI GOLI</h1>
 <h3 align="center">A passionate webdeveloper from India</h3>
-<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47i27aw1ck98d7dmevclvrh356u36p3d6cl6tdejby&rid=giphy.gif&ct=g" >
+<img align="right" alt="Coding" width="150" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47i27aw1ck98d7dmevclvrh356u36p3d6cl6tdejby&rid=giphy.gif&ct=g" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsm0077" alt="gsm0077" /></a> </p>
 
